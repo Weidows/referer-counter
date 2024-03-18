@@ -15,4 +15,4 @@ worker中的 REFERER_COUNTER 变量记得和 KV 命名空间绑定
 **感谢您的支持，打赏将激励我产出更优质的内容。如有任何问题，请私信联系我。**
 
 ### 访问量
-![](https://counter.dalin.cool/zxpzdtom/referer-counter.svg)
+![](https://counter.anyask.dev/zxpzdtom/referer-counter.svg)
