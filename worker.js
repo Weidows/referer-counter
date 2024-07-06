@@ -11,7 +11,7 @@ export default {
     };
 
     if (!pathname || pathname === "/") {
-      const svg = generateSvg("wx:zxpzdtom");
+      const svg = generateSvg("By: weidows.tech");
       return new Response(svg, { headers });
     }
 
